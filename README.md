@@ -1,31 +1,19 @@
-# DroneDeliveryExample
+# FOODY DRONE
 
-This template should help get you started developing with Vue 3 in Vite.
+โปรเจกต์นี้เป็นงานที่ส่งเข้าในงาน 42Bangkok Hackathon ในวันที่ 20 - 21 สิงหาคม 2565
 
-## Recommended IDE Setup
+## ความเป็นมาของโปรเจกต์นี้
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+โปรเจกต์นี้เกิดขึ้นจากการแข่งขัน Hackathon ของ 42Bangkok โดยในกลุ่มก็ประกอบไปด้วย 4 คนรวมผมเข้าไปแล้ว พวกเราแค่เป็นเด็กม.6 (ในปี 2565) ที่ใฝ่ฝันอยากให้ประเทศพัฒนาไปในทางที่ดีขึ้น นำเทคโนโลยีต่าง ๆ เข้ามาใช้ในประเทศมากขึ้น พวกเราได้คิดหาทางจะพัฒนาระบบอะไรบางอย่างเพื่อที่จะตอบสนองต่อสังคมและบุคคลทั่วไป รวมทั้งได้รับคำปรึกษาจาก Consulter ในการนำทางให้เกิดโปรเจกต์นี้ขึ้น
 
-## Customize configuration
+## ความคาดหวังของโปรเจกต์นี้
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+พวกเราก็หวังว่าสักพักในอนาคต ประเทศของเราจะมีการเปลี่ยนแปลงในเรื่องของการบินโดรนที่ทำให้ภาคธุรกิจสามารถใช้โดรนเป็นตัวเลือกในการขนส่งสินค้าหรือของต่าง ๆ ได้ อีกทั้งยังหวังว่าประเทศของเราจะให้ความสำคัญกับการพัฒนายานพาหนะทางอากาศขนาดเล็กและระบบไร้คนบังคับ
 
-## Project Setup
+## วิธีการใช้งานโปรเจกต์
 
 ```sh
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
@@ -33,3 +21,11 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### คอมไพล์ไฟล์และเปิดระบบ Hot Reload
+
+```sh
+npm run dev
+```
+
+
